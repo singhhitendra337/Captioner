@@ -1,7 +1,7 @@
 # Captioner
-Given an image, generates a caption for it using two different neural networks; Convolutional Neural Network (CNN) and Long Short Term Memory Network (LSTM).
+A deep leaning based model to generate captions for images using Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN).
 
-It uses transfer learning using ResNet50 model to leverage the model's trained parameters to encode an image to a 2048 feature vector which is then fed into an LSTM to predict a caption based on the features extracted by ResNet50.
+This model uses transfer learning using ResNet50 model to leverage the model's trained parameters to encode an image to a 2048 feature vector which is then fed into an LSTM to predict a caption based on the features extracted by ResNet50.
 
 # Generated Captions on Test Images
 ![ex1](https://user-images.githubusercontent.com/68904519/123643486-0b107080-d842-11eb-9042-c7cc3da70d3b.png)![ex2](https://user-images.githubusercontent.com/68904519/123643532-1bc0e680-d842-11eb-8048-a3ebf992c5a1.png)
