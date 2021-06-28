@@ -8,4 +8,8 @@ It uses transfer learning using ResNet50 model to leverage the model's trained p
 ![ex3](https://user-images.githubusercontent.com/68904519/123643567-24192180-d842-11eb-975c-f47597b1f57c.png)
 ![ex4](https://user-images.githubusercontent.com/68904519/123643573-254a4e80-d842-11eb-9df4-eb9d8cc04c96.png)
 
+# Model Architecture
+![model_archit](https://user-images.githubusercontent.com/68904519/123643921-870ab880-d842-11eb-9d9a-d2956db73b8a.png)
+
+
 
